@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ixicute
 - 👀 I’m interested in fishing, videogames & training!
-- 🌱 I’m currently learning system development with c# and AI-development with Microsoft Azure.
+- 🌱 I’m currently teaching courses in software engineering for .NET with C#.
 - 📫 vlad.ur@live.se
